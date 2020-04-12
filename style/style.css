@@ -86,7 +86,7 @@ body {
 .store-container {
     border-bottom: 1px solid #979797;
     display: block;
-    width: 200px;
+    width: auto;
     height: auto;
     padding-left: 20px;
     padding-right: 20px;
