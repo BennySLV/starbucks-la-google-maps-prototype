@@ -140,19 +140,6 @@ body {
     padding-bottom: 6px;
 }
 
-.store-info-address,
-.store-info-phone {
-    display: flex;
-    margin-top: 6px;
-    align-items: center;
-}
-
-.store-number-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .store-address {
     font-size: 18px;
     color: white;
@@ -171,6 +158,19 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
     color: white;
+}
+
+.store-info-address,
+.store-info-phone {
+    display: flex;
+    margin-top: 6px;
+    align-items: center;
+}
+
+.store-number-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .store-number {
